@@ -7,4 +7,4 @@ git commit -m"message here"
 git restore
 git log
 git config --global user.name rajbirathwal
-
+git config --global user.email rajbirathwal1@gmail.com
