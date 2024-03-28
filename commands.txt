@@ -5,3 +5,6 @@ git status
 git add
 git commit -m"message here"
 git restore
+git log
+git config --global user.name rajbirathwal
+
